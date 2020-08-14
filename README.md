@@ -1,4 +1,4 @@
-# Ruby Super Inheritance Lab 
+st# Ruby Super Inheritance Lab 
 
 ## Objectives
 
